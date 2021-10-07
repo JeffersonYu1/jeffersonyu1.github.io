@@ -153,7 +153,9 @@
     typeSpeed: 150,
     smartBackspace: true,
     loop: false,
-    onComplete: function () { $(".typed-cursor").delay(1500).fadeOut(400); }
+    onComplete: function () {
+      $('.typed-cursor').delay(1500).animate({fontSize: '0px', lineHeight: '0px', opacity:'0' }, 400);
+    }
     // onComplete: function(self) { self.cursor.remove() }
   });
 
