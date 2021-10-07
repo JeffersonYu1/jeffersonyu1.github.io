@@ -2,6 +2,6 @@
 ## About
 Personal portfolio website. [Access the live page here.](https://jeffersonyu1.github.io/)
 
-## ChangeLog
+## Changelog
 ### Version 1.0
 - Initial Commit
