@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Courgette
+- Font Author: Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name "Courgette".
+- Font Source: http://fonts.gstatic.com/s/courgette/v8/wEO_EBrAnc9BLjLQAUkFUfAL3EsHiA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
