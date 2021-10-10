@@ -725,19 +725,17 @@ section {
   position: relative;
 }
 @media (max-width: 768px) {
-  .portfolio .icon-box .icon img {
+  .portfolio .icon-box.left .icon img {
     padding-bottom: 20px;
+  }
+  .portfolio .icon-box.right .icon img {
+    padding-top: 20px;
   }
 }
 .portfolio .icon-box .iconbox-text {
-  padding-top: 12px;
   transition: 0.5s;
 }
-@media (max-width: 768px) {
-  .portfolio .icon-box .iconbox-text  {
-    padding-top: 0px;
-  }
-}
+
 .portfolio .icon-box h4 {
   font-weight: 600;
   margin: 0 0 10px 0;
